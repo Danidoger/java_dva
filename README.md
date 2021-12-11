@@ -1,2 +1,4 @@
 # java_dva
-первые 3 задания по жабе
+первые 2 задания по жабе
+1 задание - Main
+2  задание - Point, segment, brokenLine, Lesson2
