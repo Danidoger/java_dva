@@ -1,2 +1,2 @@
-# java_troitza
+# java_dva
 первые 3 задания по жабе
